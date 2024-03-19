@@ -1,0 +1,6 @@
+Import Yaml file in File manager of Hosting
+Import Database
+
+Confirm exact name of Database from config file
+
+Change url from database
