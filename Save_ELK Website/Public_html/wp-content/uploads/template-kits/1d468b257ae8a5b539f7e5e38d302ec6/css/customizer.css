@@ -1,4 +1,0 @@
-/* Makes fonts nice and smooth on all devices & browsers */
-* { 
-  -webkit-font-smoothing: antialiased;
-}
